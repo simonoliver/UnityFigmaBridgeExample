@@ -1,13 +1,14 @@
 {
   "dependencies": {
     "com.simonoliver.unityfigma": {
-      "version": "file:C:/Users/Simon/GITProjects/UnityFigmaBridgeInternal",
+      "version": "https://github.com/simonoliver/UnityFigmaBridge.git",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "2.0.1-preview.1",
         "com.unity.textmeshpro": "2.0.1"
-      }
+      },
+      "hash": "9c73880e7191f12ceacbc2578c23663b3afcfbac"
     },
     "com.unity.2d.animation": {
       "version": "7.0.7",

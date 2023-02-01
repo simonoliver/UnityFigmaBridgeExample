@@ -1,0 +1,10 @@
+﻿.idea
+*.csproj
+FigmaOutput.json
+*.sln
+UserSettings
+obj
+Builds
+Library
+Logs
+Temp
