@@ -8,6 +8,8 @@ This is a simple example project for [Unity Figma Bridge](https://github.com/sim
 
 The project is an empty project with a single Figma import applied, to show what is generated. There are a couple of additional files to show other features:
 
+If you want to create your own version of the Figma document to test importing, you can import the **Figma Unity Bridge Example.fig** file from the *FigmaSource* folder into Figma.
+
 ## Attached behaviours
 
 You can find a few example behaviours in the **Scripts** folder that show how behaviours are automatically attached to Figma Nodes, and how button presses are bound:
