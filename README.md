@@ -2,7 +2,7 @@
 
 ![Unity Figma Bridge Example](/Docs/UnityFigmaBridgeExample.png)
 
-**[WebGL Demo Here](https://simonoliver.itch.io/unity-figma-bridge)** - created with a 1-Click Import from [this Figma file](https://www.figma.com/file/DIhmjD8NcAF2UHf69y53fn/Figma-Unity-Bridge-Example?node-id=3%3A1288&t=FojAQsm2ZbnOJL9r-1).
+**[WebGL Demo Here](https://simonoliver.itch.io/unity-figma-bridge)** - created with a 1-Click Import from [this Figma file](https://www.figma.com/community/file/1230440663355118588).
 
 This is a simple example project for [Unity Figma Bridge](https://github.com/simonoliver/UnityFigmaBridge), a package that let's you easily bring Figma Assets into your Unity project. See the original repository for more details on how that works.
 
